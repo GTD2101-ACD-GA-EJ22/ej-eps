@@ -5,7 +5,6 @@ def main():
 
     print("AREA Y PERIMETRO DE UN CUADRADO")
     print("===============================")
-    print("\n")
 
     lado=float(input("Lado del cuadrado:"))
 
